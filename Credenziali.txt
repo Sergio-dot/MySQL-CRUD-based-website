@@ -1,0 +1,8 @@
+Per semplicità le credenziali utilizzano gli stessi valori nei campi Username e Password.
+
+Amministratore -> admin
+Personale culinario -> giorgione
+Personale di servizio -> ledelizie, horecando
+Fornitore -> giuve
+
+Il sito è accessibile all'indirizzo: http://progettosiclari.altervista.org/
