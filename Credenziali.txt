@@ -4,5 +4,3 @@ Amministratore -> admin
 Personale culinario -> giorgione
 Personale di servizio -> ledelizie, horecando
 Fornitore -> giuve
-
-Il sito è accessibile all'indirizzo: http://progettosiclari.altervista.org/
